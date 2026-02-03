@@ -16,6 +16,9 @@ Instead of playing the game, the goal is to reverse-engineer the SWF and recover
 ---
 
 ## Step 1: Decompiling the SWF
+
+- you can try strings on the file  no flag in strings :(
+
 Since Flash games contain client-side logic, the first step is to decompile the SWF.
 
 Tool used:
