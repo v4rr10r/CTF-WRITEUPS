@@ -141,7 +141,7 @@ This:
 - Extracts the embedded flag
 - Sends it to the webhook
 
-## Step 6 — Full Exploit Request
+## Step 6  Full Exploit Request
 
 The payload is submitted via the /review endpoint so the admin bot executes it.
 
