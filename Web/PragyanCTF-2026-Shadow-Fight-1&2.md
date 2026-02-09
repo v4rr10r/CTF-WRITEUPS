@@ -244,6 +244,3 @@ Now just URL Decode it and you will get
 `p_ctf{admz_nekki_kekw_c6e194c17f2405c5}`
 
 PWN by **W4RR1OR**
-
-![PWNED](https://media.tenor.com/2VtXGz2j5yUAAAAC/gandalf-lotr.gif)
-
